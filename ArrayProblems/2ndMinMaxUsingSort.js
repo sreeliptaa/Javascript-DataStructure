@@ -31,3 +31,4 @@
      console.log("Second maximum number is: " +number[number.length - 2]);
      break;
  }
+
