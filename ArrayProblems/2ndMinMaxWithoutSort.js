@@ -38,3 +38,4 @@ for (i = 0; i < number.length; i++) {
 
 console.log("Second Maximum number is: " +secondMax);
 console.log("Second Minimum number is: " +secondMin);
+
