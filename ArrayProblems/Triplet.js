@@ -23,4 +23,3 @@
 arr = [0, -1, 2, -3, 1];
 findTriplets(arr);
 
-
